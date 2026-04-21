@@ -21,7 +21,7 @@ Soy un desarrollador apasionado por crear soluciones web eficientes y escalables
 
 Además de mi proyecto final, he desarrollado una serie de aplicaciones que cubren desde el maquetado básico hasta integraciones complejas:
 
-- **[Web Project Final](https://github.com/JManzanilla/web_project_final):** Mi proyecto más completo integrando lógica avanzada y diseño responsivo.
+* **[Web Project Final](https://github.com/JManzanilla/web_project_final):** Mi proyecto más completo integrando lógica avanzada y diseño responsivo.
 * **[Web Project Around (Auth)](https://github.com/JManzanilla/proyectos-tripleten/tree/main/web_project_around_auth):** Aplicación con sistema de registro, inicio de sesión y protección de rutas.
 * **[Web Project Around (Express)](https://github.com/JManzanilla/proyectos-tripleten/tree/main/web_project_around_express):** Creación de una API propia y manejo de bases de datos NoSQL.
 * **[Web Project Coffee Shop](https://github.com/JManzanilla/proyectos-tripleten/tree/main/web_project_coffeeshop):** Landing page responsiva enfocada en diseño y optimización de recursos.
