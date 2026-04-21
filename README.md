@@ -17,13 +17,14 @@ Soy un desarrollador apasionado por crear soluciones web eficientes y escalables
 
 ---
 
-### 📂 Proyectos Destacados (Tripleten Series)
+### 📂 Otros Proyectos de la Serie Tripleten
 
-Mis proyectos más recientes demuestran mi evolución técnica en el desarrollo de aplicaciones completas:
+Además de mi proyecto final, he desarrollado una serie de aplicaciones que cubren desde el maquetado básico hasta integraciones complejas:
 
-- **[Web Project Final](https://github.com/JManzanilla/web_project_final):** Mi proyecto más completo integrando lógica avanzada y diseño responsivo.
-- **Serie Around:** Desarrollo de aplicaciones interactivas con validación de formularios, integración de APIs y manejo de estados.
-- **Landing Pages Profesionales:** Implementación de diseños complejos usando metodologías como BEM y optimización para dispositivos móviles.
+* **[Web Project Around (Auth)](https://github.com/JManzanilla/proyectos-tripleten/tree/main/web_project_around_auth):** Aplicación con sistema de registro, inicio de sesión y protección de rutas.
+* **[Web Project Around (Express)](https://github.com/JManzanilla/proyectos-tripleten/tree/main/web_project_around_express):** Creación de una API propia y manejo de bases de datos NoSQL.
+* **[Web Project Coffee Shop](https://github.com/JManzanilla/proyectos-tripleten/tree/main/web_project_coffeeshop):** Landing page responsiva enfocada en diseño y optimización de recursos.
+* **[Web Project Library](https://github.com/JManzanilla/proyectos-tripleten/tree/main/web_project_library_es):** Sistema de gestión de libros con lógica de búsqueda y filtrado.
 
 ---
 
