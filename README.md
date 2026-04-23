@@ -34,7 +34,7 @@ A través de mi especialización en **Tripleten**, he consolidado habilidades en
 ### 📂 Proyectos Destacados
 
 * **[Web Project Final](https://github.com/JManzanilla/web_project_final):** Mi proyecto más completo integrando lógica avanzada, bases de datos y diseño responsivo.
-* **[Web Project Around_(Appi full)](https://github.com/JManzanilla/web_project_api_full):**Aplicacion completa con autentificacion conexion al Backend y base de datos, desplegada en una maquina virtual en Google Cloud.
+* [Web Project Around_(Appi full)](https://github.com/JManzanilla/web_project_api_full):**Aplicacion completa con autentificacion conexion al Backend y base de datos, desplegada en una maquina virtual en Google Cloud.
 * **[Web Project Around (Auth)](https://github.com/JManzanilla/web_project_around_auth):** Aplicación con sistema de registro, inicio de sesión y protección de rutas mediante JWT.
 * **[Web Project Around (Express)](https://github.com/JManzanilla/web_project_around_express):** Creación de una API RESTful propia y manejo de bases de datos NoSQL.
 * **[Web Project Coffee Shop](https://github.com/JManzanilla/web_project_coffeeshop):** Landing page responsiva enfocada en diseño UI/UX y optimización de recursos.
