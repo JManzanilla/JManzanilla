@@ -28,12 +28,23 @@ A través de mi especialización en **Tripleten**, he consolidado habilidades en
 
 ---
 
-### 📂 Proyectos Destacados
+### 📂 Portafolio de Proyectos
 
-* **[🏆 Sistema de Gestión de Torneos](https://github.com/JManzanilla/web_project_final):** Mi proyecto más avanzado. Gestión de torneos "Round Robin" con **React 19, Next.js y Drizzle ORM**. Desplegado en **Google Cloud Run** con Docker.
-* **[📱 Red Social Full Stack (Around)](https://github.com/JManzanilla/web_project_api_full):** Aplicación completa con autenticación JWT, manejo de imágenes y conexión a base de datos, desplegada en una VM de Google Cloud.
-* **[🔐 API RESTful con Express](https://github.com/JManzanilla/web_project_around_express):** Backend robusto con manejo de seguridad, controladores y esquemas de base de datos NoSQL.
-* **[☕ Coffee Shop Landing](https://github.com/JManzanilla/web_project_coffeeshop):** Proyecto enfocado en **UI/UX responsivo** y optimización de carga de recursos siguiendo estándares modernos de diseño.
+#### 🏆 Proyecto Principal (Full Stack & Cloud)
+* **[Sistema de Gestión de Torneos](https://github.com/JManzanilla/web_project_final):** Mi proyecto más avanzado. Gestión de torneos "Round Robin" con **React 19, Next.js y Drizzle ORM**. Desplegado en **Google Cloud Run** con Docker.
+
+#### 🌐 Aplicaciones Full Stack & APIs
+* **[Red Social Full Stack (Around)](https://github.com/JManzanilla/web_project_api_full):** Aplicación con autenticación JWT y API RESTful.
+    * 🚀 **Demo en vivo:** [around-projects.duckdns.org](https://around-projects.duckdns.org/)
+    * 🛠️ **Infraestructura:** Backend desplegado en **Google Cloud Platform (GCP)** con Node.js/Express y base de datos persistente.
+* **[API RESTful con Express](https://github.com/JManzanilla/web_project_around_express):** Backend robusto con Node.js, manejo de seguridad, controladores y esquemas NoSQL.
+* **[Around The U.S. (React Edition)](https://github.com/JManzanilla/web_project_around_react):** Reconstrucción interactiva utilizando Hooks y arquitectura de componentes.
+
+#### 🎨 Frontend & Maquetación Avanzada
+* **[Homeland Landing Page](https://github.com/JManzanilla/web_project_homeland):** Landing page inmobiliaria con enfoque en arquitectura BEM y diseño Mobile First.
+* **[Coffee Shop Landing](https://github.com/JManzanilla/web_project_coffeeshop):** Proyecto enfocado en UI/UX responsivo y optimización de carga de recursos.
+* **[Around JavaScript Vanilla](https://github.com/JManzanilla/web_project_around):** Galería interactiva desarrollada con JS puro, manipulación del DOM y validación de formularios.
+* **[Library System](https://github.com/JManzanilla/web_project_library_es):** Lógica de búsqueda y filtrado de datos para gestión de catálogos.
 
 ---
 
