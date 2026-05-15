@@ -50,11 +50,11 @@ A través de mi especialización en **Tripleten**, he consolidado habilidades en
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de JManzanilla](https://github-readme-stats.vercel.app/api?username=JManzanilla&show_icons=true&theme=tokyonight&count_private=true)
+![Estadísticas de JManzanilla](https://github-readme-stats-eight-theta.vercel.app/api?username=JManzanilla&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800)
 
 ---
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JManzanilla&layout=compact&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JManzanilla&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
